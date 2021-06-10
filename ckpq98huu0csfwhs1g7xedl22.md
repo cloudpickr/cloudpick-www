@@ -5,8 +5,7 @@
 
 CloudPick 은 거대하고 복잡해진 클라우드의 개념 및 여러 Use case 를 쉽게 정리하여 빠른 이해를 통해 실무에 적용을 하실 수 있도록 도움을 드리고자 합니다.
 
- [https://docs.cloudpick.kr
-](Link)
+https://docs.cloudpick.kr
 
 아무쪼록 여러 분에게 많은 도움이 되었으면 합니다.
 
